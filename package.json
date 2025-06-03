@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "require": "^2.4.20",
+    "typescript-require": "^0.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "name": "atividdade-de-for",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
